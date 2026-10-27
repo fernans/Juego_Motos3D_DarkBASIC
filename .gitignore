@@ -1,0 +1,7 @@
+# Sistema
+Thumbs.db
+desktop.ini
+.DS_Store
+
+# Empaquetado (se publica como asset de GitHub Release)
+Motos3D_intentoDarkBasic.rar
